@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.first{
+    background-image: url("./image1.jpeg");
+    /* min-height: 100%; */
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    /* filter: blur(2px); */
+    opacity: 0.5;
+    
+
+}
+
+.first p{
+        text-align: center;
+        /* padding-top: 300px;*/
+        color:white;
+        background-color: black;
+        font-size: 30px;
+        position: absolute;
+        top: 300px;
+        left:500px;
+        letter-spacing: 4px;
+        /* display: inline-block; */
+        /* padding-left: 500px; */ 
+    }
+    
+.ffirst{
+    background-color: #F4F4F4;
+    color: #666666;
+    padding: 60px;
+}
+.ffirst h4{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.ffirst p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.second{
+    background-image: url("./image2.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.5;
+}
+
+.second p{
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 4px;
+}
+/* second part  */
+.ssecond{
+    background-color: #282E33;
+    color: #DDDDDD;
+    padding: 60px;
+}
+.ssecond h4{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.ssecond p{
+    text-align: center;
+    font-size: 20px;
+}
+/* Third part  */
+.third{
+    background-image: url("./image3.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.5;
+}
+
+.third p{
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 4px;
+}
+
+/* fourth one  */
+.four{
+    background-image: url("./image1.jpeg");
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.5;
+}
+
+.four p{
+    
+    color: white;
+    font-size: 30px;
+    background-color: black;
+    letter-spacing: 4px;
+    position: relative;
+    top: 300px;
+    left: 500px;
+    max-width: fit-content;
+    
+}
+
+
+.five{
+    background-image: url("./image2.jpeg");
+    height: 900px;
+    
+
+    
+
+    
+
+
+}
+
+.five p{
+    color: beige;
+    position: relative;
+    left: 600px;
+    top: 300px;
+    background-color: bisque;
+    max-width:max-content;
+}
+
+/* .first p{
+    background-color: white;
+} */
